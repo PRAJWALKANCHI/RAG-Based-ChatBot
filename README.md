@@ -46,22 +46,6 @@ This application is built with **Streamlit** for an intuitive user interface and
 * RAG learning projects
 
 
-## 📄 Short GitHub Repo Description (Tagline)
 
-> A Retrieval-Augmented Generation (RAG) based chatbot that enables intelligent question answering over uploaded PDF documents using FAISS, LangChain, and Google Gemini.
-
-
-
-## 🏷 Suggested GitHub Topics
-
-rag
-rag-chatbot
-langchain
-faiss
-streamlit
-pdf-chatbot
-generative-ai
-llm
-document-question-answering
 
 
